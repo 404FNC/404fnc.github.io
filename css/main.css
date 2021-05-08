@@ -1,0 +1,27 @@
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
+
+
+
+/*/ start count stats /*/
+
+section#counter-stats {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.stats {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.stats .fa {
+  color: #4a90e2;
+  font-size: 40px;
+  padding: 20px;
+}
+
+/*/ end count stats /*/
