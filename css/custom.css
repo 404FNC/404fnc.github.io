@@ -1,15 +1,15 @@
 /*! Place your custom styles here */
 
 .size--xl {
-  font-size: 6em;
+  font-size: 5em;
 }
 
 .size--l {
-  font-size: 4.5em;
+  font-size: 3em;
 }
 
 .size--m {
-  font-size: 3em;
+  font-size: 2.25em;
 }
 
 .blur {
@@ -23,4 +23,8 @@
 
 .padding100top {
   padding-top: 100px !important;
+}
+
+.padding20top {
+  padding-top: 20px !important;
 }
